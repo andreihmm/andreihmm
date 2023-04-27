@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andreihmmm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning HTML, CSS, Javascript, SQL.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Instagram @andrei_afr, Linkedin Andrei Alves Fracalossi
+- 📫 How to reach me: Instagram @andrei_afr, Linkedin Andrei Alves Fracalossi.
 
 <!---
 andreihmmm/andreihmmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
