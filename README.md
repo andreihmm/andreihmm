@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **PYTHON, JAVA, HTML/CSS**
+- 🌱 I’m currently learning **PYTHON, JAVA, HTML/CSS, C#, C**
 
 - 👨‍💻 All of my projects are available at [https://andreihmm.github.io/meuCurriculo/](https://andreihmm.github.io/meuCurriculo/)
 
